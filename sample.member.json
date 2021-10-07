@@ -1,0 +1,631 @@
+{"nameFormats": {"listPreferredLocal": "Aird, Alyssa Jane", "givenPreferredLocal": "Alyssa Jane", "familyPreferredLocal": "Aird", "listPreferred": "None", "listOfficial": "None", "spokenPreferredLocal": None
+    }, "uuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameOrder": 1, "age": 3, "emails": "None", "phones": "None", "phoneNumber": "None", "priesthoodOffice": "NONE", "membershipUnit": "None", "legacyCmisId": 33105576232, "sex": "F", "unitOrgsCombined": ["9ebacb4d-3a81-419c-8344-b509700e75f7"
+    ], "positions": "None", "householdMember": {"householdRole": "OTHER", "household": {"anchorPerson": {"legacyCmisId": 2451920492, "uuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380"
+            }, "uuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "familyNameLocal": "Aird", "directoryPreferredLocal": "Aird, Jon & Sheryl", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+                ]
+            }, "emails": [
+                {"email": "jon@chariotwholesale.com", "ownerType": "None", "useType": None
+                }
+            ], "phones": [
+                {"number": "801-735-5585", "ownerType": "None", "useType": None
+                }
+            ], "unit": {"parentUnit": "None", "uuid": "None", "unitNumber": 259950, "nameLocal": "Moss Hill Ward", "unitType": "None", "children": "None", "positions": "None", "cdolLink": "None", "adminUnit": "None", "addressUnknown": None
+            }
+        }, "membershipUnitFlag": True
+    }, 
+    "member": True, 
+    "householdAnchorPersonUuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380", 
+    "householdNameFamilyLocal": "Aird", 
+    "householdRole": "OTHER", 
+    "nameFamilyPreferredLocal": "Aird", 
+    "isMember": True, 
+    "formattedAddress": "851 Lakeview Dr<br/>Bountiful, 
+    Utah 84010-1555", 
+    "youthBasedOnAge": True, 
+    "isSpouse": False, 
+    "convert": False, 
+    "priesthoodTeacherOrAbove": False, 
+    "outOfUnitMember": False, 
+    "isAdult": False, 
+    "personUuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameListPreferredLocal": "Aird, Alyssa Jane", 
+    "householdNameDirectoryLocal": "Aird, Jon & Sheryl", "nameGivenPreferredLocal": "Alyssa Jane", "houseHoldMemberNameForList": "Alyssa Jane", "isOutOfUnitMember": False, "householdEmail": "jon@chariotwholesale.com", "unitName": "Moss Hill Ward", "householdUuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "isProspectiveElder": False, "isSingleAdult": False, "isYoungSingleAdult": False, "householdPhoneNumber": "801-735-5585", "isHead": False, "unitNumber": 259950, "email": "None", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+        ]
+    }, "birth": {"date": {"date": "2017-11-21", "calc": "2017-11-21", "display": "21 Nov 2017"
+        }, "monthDay": {"date": "0000-11-21", "calc": "", "display": "21 Nov"
+        }, "place": "None", "country": None
+    }, "personStatusFlags": {"member": True, "convert": False, "adult": False, "singleAdult": False, "youngSingleAdult": False, "prospectiveElder": False, "deceased": False
+    }
+}
+}, "uuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameOrder": 1, "age": 3, "emails": "None", "phones": "None", "phoneNumber": "None", "priesthoodOffice": "NONE", "membershipUnit": "None", "legacyCmisId": 33105576232, "sex": "F", "unitOrgsCombined": ["9ebacb4d-3a81-419c-8344-b509700e75f7"
+], "positions": "None", "householdMember": {"householdRole": "OTHER", "household": {"anchorPerson": {"legacyCmisId": 2451920492, "uuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380"
+    }, "uuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "familyNameLocal": "Aird", "directoryPreferredLocal": "Aird, Jon & Sheryl", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+        ]
+    }, "emails": [
+        {"email": "jon@chariotwholesale.com", "ownerType": "None", "useType": None
+        }
+    ], "phones": [
+        {"number": "801-735-5585", "ownerType": "None", "useType": None
+        }
+    ], "unit": {"parentUnit": "None", "uuid": "None", "unitNumber": 259950, "nameLocal": "Moss Hill Ward", "unitType": "None", "children": "None", "positions": "None", "cdolLink": "None", "adminUnit": "None", "addressUnknown": None
+    }
+}, "membershipUnitFlag": True
+}, 
+    "member": True, 
+    "householdAnchorPersonUuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380", 
+    "householdNameFamilyLocal": "Aird", 
+    "householdRole": "OTHER", 
+    "nameFamilyPreferredLocal": "Aird", 
+    "isMember": True, 
+    "formattedAddress": "851 Lakeview Dr<br/>Bountiful, 
+    Utah 84010-1555", 
+    "youthBasedOnAge": True, 
+    "isSpouse": False, 
+    "convert": False, 
+    "priesthoodTeacherOrAbove": False, 
+    "outOfUnitMember": False, 
+    "isAdult": False, 
+    "personUuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameListPreferredLocal": "Aird, Alyssa Jane", 
+    "householdNameDirectoryLocal": "Aird, Jon & Sheryl", "nameGivenPreferredLocal": "Alyssa Jane", "houseHoldMemberNameForList": "Alyssa Jane", "isOutOfUnitMember": False, "householdEmail": "jon@chariotwholesale.com", "unitName": "Moss Hill Ward", "householdUuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "isProspectiveElder": False, "isSingleAdult": False, "isYoungSingleAdult": False, "householdPhoneNumber": "801-735-5585", "isHead": False, "unitNumber": 259950, "email": "None", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "birth": {"date": {"date": "2017-11-21", "calc": "2017-11-21", "display": "21 Nov 2017"
+}, "monthDay": {"date": "0000-11-21", "calc": "", "display": "21 Nov"
+}, "place": "None", "country": None
+}, "personStatusFlags": {"member": True, "convert": False, "adult": False, "singleAdult": False, "youngSingleAdult": False, "prospectiveElder": False, "deceased": False
+}
+}
+    {"listPreferredLocal": "Aird, Alyssa Jane", "givenPreferredLocal": "Alyssa Jane", "familyPreferredLocal": "Aird", "listPreferred": "None", "listOfficial": "None", "spokenPreferredLocal": None
+}, "uuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameOrder": 1, "age": 3, "emails": "None", "phones": "None", "phoneNumber": "None", "priesthoodOffice": "NONE", "membershipUnit": "None", "legacyCmisId": 33105576232, "sex": "F", "unitOrgsCombined": ["9ebacb4d-3a81-419c-8344-b509700e75f7"
+], "positions": "None", "householdMember": {"householdRole": "OTHER", "household": {"anchorPerson": {"legacyCmisId": 2451920492, "uuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380"
+}, "uuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "familyNameLocal": "Aird", "directoryPreferredLocal": "Aird, Jon & Sheryl", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+    ]
+}, "emails": [
+    {"email": "jon@chariotwholesale.com", "ownerType": "None", "useType": None
+    }
+], "phones": [
+    {"number": "801-735-5585", "ownerType": "None", "useType": None
+    }
+], "unit": {"parentUnit": "None", "uuid": "None", "unitNumber": 259950, "nameLocal": "Moss Hill Ward", "unitType": "None", "children": "None", "positions": "None", "cdolLink": "None", "adminUnit": "None", "addressUnknown": None
+}
+}, "membershipUnitFlag": True
+}, 
+    "member": True, 
+    "householdAnchorPersonUuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380", 
+    "householdNameFamilyLocal": "Aird", 
+    "householdRole": "OTHER", 
+    "nameFamilyPreferredLocal": "Aird", 
+    "isMember": True, 
+    "formattedAddress": "851 Lakeview Dr<br/>Bountiful, 
+    Utah 84010-1555", 
+    "youthBasedOnAge": True, 
+    "isSpouse": False, 
+    "convert": False, 
+    "priesthoodTeacherOrAbove": False, 
+    "outOfUnitMember": False, 
+    "isAdult": False, 
+    "personUuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameListPreferredLocal": "Aird, Alyssa Jane", 
+    "householdNameDirectoryLocal": "Aird, Jon & Sheryl", "nameGivenPreferredLocal": "Alyssa Jane", "houseHoldMemberNameForList": "Alyssa Jane", "isOutOfUnitMember": False, "householdEmail": "jon@chariotwholesale.com", "unitName": "Moss Hill Ward", "householdUuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "isProspectiveElder": False, "isSingleAdult": False, "isYoungSingleAdult": False, "householdPhoneNumber": "801-735-5585", "isHead": False, "unitNumber": 259950, "email": "None", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "birth": {"date": {"date": "2017-11-21", "calc": "2017-11-21", "display": "21 Nov 2017"
+}, "monthDay": {"date": "0000-11-21", "calc": "", "display": "21 Nov"
+}, "place": "None", "country": None
+}, "personStatusFlags": {"member": True, "convert": False, "adult": False, "singleAdult": False, "youngSingleAdult": False, "prospectiveElder": False, "deceased": False
+}
+}
+}, "uuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameOrder": 1, "age": 3, "emails": "None", "phones": "None", "phoneNumber": "None", "priesthoodOffice": "NONE", "membershipUnit": "None", "legacyCmisId": 33105576232, "sex": "F", "unitOrgsCombined": ["9ebacb4d-3a81-419c-8344-b509700e75f7"
+], "positions": "None", "householdMember": {"householdRole": "OTHER", "household": {"anchorPerson": {"legacyCmisId": 2451920492, "uuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380"
+}, "uuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "familyNameLocal": "Aird", "directoryPreferredLocal": "Aird, Jon & Sheryl", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "emails": [
+{"email": "jon@chariotwholesale.com", "ownerType": "None", "useType": None
+}
+], "phones": [
+{"number": "801-735-5585", "ownerType": "None", "useType": None
+}
+], "unit": {"parentUnit": "None", "uuid": "None", "unitNumber": 259950, "nameLocal": "Moss Hill Ward", "unitType": "None", "children": "None", "positions": "None", "cdolLink": "None", "adminUnit": "None", "addressUnknown": None
+}
+}, "membershipUnitFlag": True
+}, 
+    "member": True, 
+    "householdAnchorPersonUuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380", 
+    "householdNameFamilyLocal": "Aird", 
+    "householdRole": "OTHER", 
+    "nameFamilyPreferredLocal": "Aird", 
+    "isMember": True, 
+    "formattedAddress": "851 Lakeview Dr<br/>Bountiful, 
+    Utah 84010-1555", 
+    "youthBasedOnAge": True, 
+    "isSpouse": False, 
+    "convert": False, 
+    "priesthoodTeacherOrAbove": False, 
+    "outOfUnitMember": False, 
+    "isAdult": False, 
+    "personUuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameListPreferredLocal": "Aird, Alyssa Jane", 
+    "householdNameDirectoryLocal": "Aird, Jon & Sheryl", "nameGivenPreferredLocal": "Alyssa Jane", "houseHoldMemberNameForList": "Alyssa Jane", "isOutOfUnitMember": False, "householdEmail": "jon@chariotwholesale.com", "unitName": "Moss Hill Ward", "householdUuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "isProspectiveElder": False, "isSingleAdult": False, "isYoungSingleAdult": False, "householdPhoneNumber": "801-735-5585", "isHead": False, "unitNumber": 259950, "email": "None", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "birth": {"date": {"date": "2017-11-21", "calc": "2017-11-21", "display": "21 Nov 2017"
+}, "monthDay": {"date": "0000-11-21", "calc": "", "display": "21 Nov"
+}, "place": "None", "country": None
+}, "personStatusFlags": {"member": True, "convert": False, "adult": False, "singleAdult": False, "youngSingleAdult": False, "prospectiveElder": False, "deceased": False
+}
+}
+    {"listPreferredLocal": "Aird, Alyssa Jane", "givenPreferredLocal": "Alyssa Jane", "familyPreferredLocal": "Aird", "listPreferred": "None", "listOfficial": "None", "spokenPreferredLocal": None
+}, "uuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameOrder": 1, "age": 3, "emails": "None", "phones": "None", "phoneNumber": "None", "priesthoodOffice": "NONE", "membershipUnit": "None", "legacyCmisId": 33105576232, "sex": "F", "unitOrgsCombined": ["9ebacb4d-3a81-419c-8344-b509700e75f7"
+], "positions": "None", "householdMember": {"householdRole": "OTHER", "household": {"anchorPerson": {"legacyCmisId": 2451920492, "uuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380"
+}, "uuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "familyNameLocal": "Aird", "directoryPreferredLocal": "Aird, Jon & Sheryl", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "emails": [
+{"email": "jon@chariotwholesale.com", "ownerType": "None", "useType": None
+}
+], "phones": [
+{"number": "801-735-5585", "ownerType": "None", "useType": None
+}
+], "unit": {"parentUnit": "None", "uuid": "None", "unitNumber": 259950, "nameLocal": "Moss Hill Ward", "unitType": "None", "children": "None", "positions": "None", "cdolLink": "None", "adminUnit": "None", "addressUnknown": None
+}
+}, "membershipUnitFlag": True
+}, 
+    "member": True, 
+    "householdAnchorPersonUuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380", 
+    "householdNameFamilyLocal": "Aird", 
+    "householdRole": "OTHER", 
+    "nameFamilyPreferredLocal": "Aird", 
+    "isMember": True, 
+    "formattedAddress": "851 Lakeview Dr<br/>Bountiful, 
+    Utah 84010-1555", 
+    "youthBasedOnAge": True, 
+    "isSpouse": False, 
+    "convert": False, 
+    "priesthoodTeacherOrAbove": False, 
+    "outOfUnitMember": False, 
+    "isAdult": False, 
+    "personUuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameListPreferredLocal": "Aird, Alyssa Jane", 
+    "householdNameDirectoryLocal": "Aird, Jon & Sheryl", "nameGivenPreferredLocal": "Alyssa Jane", "houseHoldMemberNameForList": "Alyssa Jane", "isOutOfUnitMember": False, "householdEmail": "jon@chariotwholesale.com", "unitName": "Moss Hill Ward", "householdUuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "isProspectiveElder": False, "isSingleAdult": False, "isYoungSingleAdult": False, "householdPhoneNumber": "801-735-5585", "isHead": False, "unitNumber": 259950, "email": "None", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "birth": {"date": {"date": "2017-11-21", "calc": "2017-11-21", "display": "21 Nov 2017"
+}, "monthDay": {"date": "0000-11-21", "calc": "", "display": "21 Nov"
+}, "place": "None", "country": None
+}, "personStatusFlags": {"member": True, "convert": False, "adult": False, "singleAdult": False, "youngSingleAdult": False, "prospectiveElder": False, "deceased": False
+}
+}
+}, "uuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameOrder": 1, "age": 3, "emails": "None", "phones": "None", "phoneNumber": "None", "priesthoodOffice": "NONE", "membershipUnit": "None", "legacyCmisId": 33105576232, "sex": "F", "unitOrgsCombined": ["9ebacb4d-3a81-419c-8344-b509700e75f7"
+], "positions": "None", "householdMember": {"householdRole": "OTHER", "household": {"anchorPerson": {"legacyCmisId": 2451920492, "uuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380"
+}, "uuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "familyNameLocal": "Aird", "directoryPreferredLocal": "Aird, Jon & Sheryl", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "emails": [
+{"email": "jon@chariotwholesale.com", "ownerType": "None", "useType": None
+}
+], "phones": [
+{"number": "801-735-5585", "ownerType": "None", "useType": None
+}
+], "unit": {"parentUnit": "None", "uuid": "None", "unitNumber": 259950, "nameLocal": "Moss Hill Ward", "unitType": "None", "children": "None", "positions": "None", "cdolLink": "None", "adminUnit": "None", "addressUnknown": None
+}
+}, "membershipUnitFlag": True
+}, 
+    "member": True, 
+    "householdAnchorPersonUuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380", 
+    "householdNameFamilyLocal": "Aird", 
+    "householdRole": "OTHER", 
+    "nameFamilyPreferredLocal": "Aird", 
+    "isMember": True, 
+    "formattedAddress": "851 Lakeview Dr<br/>Bountiful, 
+    Utah 84010-1555", 
+    "youthBasedOnAge": True, 
+    "isSpouse": False, 
+    "convert": False, 
+    "priesthoodTeacherOrAbove": False, 
+    "outOfUnitMember": False, 
+    "isAdult": False, 
+    "personUuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameListPreferredLocal": "Aird, Alyssa Jane", 
+    "householdNameDirectoryLocal": "Aird, Jon & Sheryl", "nameGivenPreferredLocal": "Alyssa Jane", "houseHoldMemberNameForList": "Alyssa Jane", "isOutOfUnitMember": False, "householdEmail": "jon@chariotwholesale.com", "unitName": "Moss Hill Ward", "householdUuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "isProspectiveElder": False, "isSingleAdult": False, "isYoungSingleAdult": False, "householdPhoneNumber": "801-735-5585", "isHead": False, "unitNumber": 259950, "email": "None", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "birth": {"date": {"date": "2017-11-21", "calc": "2017-11-21", "display": "21 Nov 2017"
+}, "monthDay": {"date": "0000-11-21", "calc": "", "display": "21 Nov"
+}, "place": "None", "country": None
+}, "personStatusFlags": {"member": True, "convert": False, "adult": False, "singleAdult": False, "youngSingleAdult": False, "prospectiveElder": False, "deceased": False
+}
+}
+    {"listPreferredLocal": "Aird, Alyssa Jane", "givenPreferredLocal": "Alyssa Jane", "familyPreferredLocal": "Aird", "listPreferred": "None", "listOfficial": "None", "spokenPreferredLocal": None
+}, "uuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameOrder": 1, "age": 3, "emails": "None", "phones": "None", "phoneNumber": "None", "priesthoodOffice": "NONE", "membershipUnit": "None", "legacyCmisId": 33105576232, "sex": "F", "unitOrgsCombined": ["9ebacb4d-3a81-419c-8344-b509700e75f7"
+], "positions": "None", "householdMember": {"householdRole": "OTHER", "household": {"anchorPerson": {"legacyCmisId": 2451920492, "uuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380"
+}, "uuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "familyNameLocal": "Aird", "directoryPreferredLocal": "Aird, Jon & Sheryl", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "emails": [
+{"email": "jon@chariotwholesale.com", "ownerType": "None", "useType": None
+}
+], "phones": [
+{"number": "801-735-5585", "ownerType": "None", "useType": None
+}
+], "unit": {"parentUnit": "None", "uuid": "None", "unitNumber": 259950, "nameLocal": "Moss Hill Ward", "unitType": "None", "children": "None", "positions": "None", "cdolLink": "None", "adminUnit": "None", "addressUnknown": None
+}
+}, "membershipUnitFlag": True
+}, 
+    "member": True, 
+    "householdAnchorPersonUuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380", 
+    "householdNameFamilyLocal": "Aird", 
+    "householdRole": "OTHER", 
+    "nameFamilyPreferredLocal": "Aird", 
+    "isMember": True, 
+    "formattedAddress": "851 Lakeview Dr<br/>Bountiful, 
+    Utah 84010-1555", 
+    "youthBasedOnAge": True, 
+    "isSpouse": False, 
+    "convert": False, 
+    "priesthoodTeacherOrAbove": False, 
+    "outOfUnitMember": False, 
+    "isAdult": False, 
+    "personUuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameListPreferredLocal": "Aird, Alyssa Jane", 
+    "householdNameDirectoryLocal": "Aird, Jon & Sheryl", "nameGivenPreferredLocal": "Alyssa Jane", "houseHoldMemberNameForList": "Alyssa Jane", "isOutOfUnitMember": False, "householdEmail": "jon@chariotwholesale.com", "unitName": "Moss Hill Ward", "householdUuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "isProspectiveElder": False, "isSingleAdult": False, "isYoungSingleAdult": False, "householdPhoneNumber": "801-735-5585", "isHead": False, "unitNumber": 259950, "email": "None", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "birth": {"date": {"date": "2017-11-21", "calc": "2017-11-21", "display": "21 Nov 2017"
+}, "monthDay": {"date": "0000-11-21", "calc": "", "display": "21 Nov"
+}, "place": "None", "country": None
+}, "personStatusFlags": {"member": True, "convert": False, "adult": False, "singleAdult": False, "youngSingleAdult": False, "prospectiveElder": False, "deceased": False
+}
+}
+}, "uuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameOrder": 1, "age": 3, "emails": "None", "phones": "None", "phoneNumber": "None", "priesthoodOffice": "NONE", "membershipUnit": "None", "legacyCmisId": 33105576232, "sex": "F", "unitOrgsCombined": ["9ebacb4d-3a81-419c-8344-b509700e75f7"
+], "positions": "None", "householdMember": {"householdRole": "OTHER", "household": {"anchorPerson": {"legacyCmisId": 2451920492, "uuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380"
+}, "uuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "familyNameLocal": "Aird", "directoryPreferredLocal": "Aird, Jon & Sheryl", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "emails": [
+{"email": "jon@chariotwholesale.com", "ownerType": "None", "useType": None
+}
+], "phones": [
+{"number": "801-735-5585", "ownerType": "None", "useType": None
+}
+], "unit": {"parentUnit": "None", "uuid": "None", "unitNumber": 259950, "nameLocal": "Moss Hill Ward", "unitType": "None", "children": "None", "positions": "None", "cdolLink": "None", "adminUnit": "None", "addressUnknown": None
+}
+}, "membershipUnitFlag": True
+}, 
+    "member": True, 
+    "householdAnchorPersonUuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380", 
+    "householdNameFamilyLocal": "Aird", 
+    "householdRole": "OTHER", 
+    "nameFamilyPreferredLocal": "Aird", 
+    "isMember": True, 
+    "formattedAddress": "851 Lakeview Dr<br/>Bountiful, 
+    Utah 84010-1555", 
+    "youthBasedOnAge": True, 
+    "isSpouse": False, 
+    "convert": False, 
+    "priesthoodTeacherOrAbove": False, 
+    "outOfUnitMember": False, 
+    "isAdult": False, 
+    "personUuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameListPreferredLocal": "Aird, Alyssa Jane", 
+    "householdNameDirectoryLocal": "Aird, Jon & Sheryl", "nameGivenPreferredLocal": "Alyssa Jane", "houseHoldMemberNameForList": "Alyssa Jane", "isOutOfUnitMember": False, "householdEmail": "jon@chariotwholesale.com", "unitName": "Moss Hill Ward", "householdUuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "isProspectiveElder": False, "isSingleAdult": False, "isYoungSingleAdult": False, "householdPhoneNumber": "801-735-5585", "isHead": False, "unitNumber": 259950, "email": "None", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "birth": {"date": {"date": "2017-11-21", "calc": "2017-11-21", "display": "21 Nov 2017"
+}, "monthDay": {"date": "0000-11-21", "calc": "", "display": "21 Nov"
+}, "place": "None", "country": None
+}, "personStatusFlags": {"member": True, "convert": False, "adult": False, "singleAdult": False, "youngSingleAdult": False, "prospectiveElder": False, "deceased": False
+}
+}
+}, "uuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameOrder": 1, "age": 3, "emails": "None", "phones": "None", "phoneNumber": "None", "priesthoodOffice": "NONE", "membershipUnit": "None", "legacyCmisId": 33105576232, "sex": "F", "unitOrgsCombined": ["9ebacb4d-3a81-419c-8344-b509700e75f7"
+], "positions": "None", "householdMember": {"householdRole": "OTHER", "household": {"anchorPerson": {"legacyCmisId": 2451920492, "uuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380"
+}, "uuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "familyNameLocal": "Aird", "directoryPreferredLocal": "Aird, Jon & Sheryl", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "emails": [
+{"email": "jon@chariotwholesale.com", "ownerType": "None", "useType": None
+}
+], "phones": [
+{"number": "801-735-5585", "ownerType": "None", "useType": None
+}
+], "unit": {"parentUnit": "None", "uuid": "None", "unitNumber": 259950, "nameLocal": "Moss Hill Ward", "unitType": "None", "children": "None", "positions": "None", "cdolLink": "None", "adminUnit": "None", "addressUnknown": None
+}
+}, "membershipUnitFlag": True
+}, 
+    "member": True, 
+    "householdAnchorPersonUuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380", 
+    "householdNameFamilyLocal": "Aird", 
+    "householdRole": "OTHER", 
+    "nameFamilyPreferredLocal": "Aird", 
+    "isMember": True, 
+    "formattedAddress": "851 Lakeview Dr<br/>Bountiful, 
+    Utah 84010-1555", 
+    "youthBasedOnAge": True, 
+    "isSpouse": False, 
+    "convert": False, 
+    "priesthoodTeacherOrAbove": False, 
+    "outOfUnitMember": False, 
+    "isAdult": False, 
+    "personUuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameListPreferredLocal": "Aird, Alyssa Jane", 
+    "householdNameDirectoryLocal": "Aird, Jon & Sheryl", "nameGivenPreferredLocal": "Alyssa Jane", "houseHoldMemberNameForList": "Alyssa Jane", "isOutOfUnitMember": False, "householdEmail": "jon@chariotwholesale.com", "unitName": "Moss Hill Ward", "householdUuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "isProspectiveElder": False, "isSingleAdult": False, "isYoungSingleAdult": False, "householdPhoneNumber": "801-735-5585", "isHead": False, "unitNumber": 259950, "email": "None", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "birth": {"date": {"date": "2017-11-21", "calc": "2017-11-21", "display": "21 Nov 2017"
+}, "monthDay": {"date": "0000-11-21", "calc": "", "display": "21 Nov"
+}, "place": "None", "country": None
+}, "personStatusFlags": {"member": True, "convert": False, "adult": False, "singleAdult": False, "youngSingleAdult": False, "prospectiveElder": False, "deceased": False
+}
+}
+}, "uuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameOrder": 1, "age": 3, "emails": "None", "phones": "None", "phoneNumber": "None", "priesthoodOffice": "NONE", "membershipUnit": "None", "legacyCmisId": 33105576232, "sex": "F", "unitOrgsCombined": ["9ebacb4d-3a81-419c-8344-b509700e75f7"
+], "positions": "None", "householdMember": {"householdRole": "OTHER", "household": {"anchorPerson": {"legacyCmisId": 2451920492, "uuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380"
+}, "uuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "familyNameLocal": "Aird", "directoryPreferredLocal": "Aird, Jon & Sheryl", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "emails": [
+{"email": "jon@chariotwholesale.com", "ownerType": "None", "useType": None
+}
+], "phones": [
+{"number": "801-735-5585", "ownerType": "None", "useType": None
+}
+], "unit": {"parentUnit": "None", "uuid": "None", "unitNumber": 259950, "nameLocal": "Moss Hill Ward", "unitType": "None", "children": "None", "positions": "None", "cdolLink": "None", "adminUnit": "None", "addressUnknown": None
+}
+}, "membershipUnitFlag": True
+}, 
+    "member": True, 
+    "householdAnchorPersonUuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380", 
+    "householdNameFamilyLocal": "Aird", 
+    "householdRole": "OTHER", 
+    "nameFamilyPreferredLocal": "Aird", 
+    "isMember": True, 
+    "formattedAddress": "851 Lakeview Dr<br/>Bountiful, 
+    Utah 84010-1555", 
+    "youthBasedOnAge": True, 
+    "isSpouse": False, 
+    "convert": False, 
+    "priesthoodTeacherOrAbove": False, 
+    "outOfUnitMember": False, 
+    "isAdult": False, 
+    "personUuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameListPreferredLocal": "Aird, Alyssa Jane", 
+    "householdNameDirectoryLocal": "Aird, Jon & Sheryl", "nameGivenPreferredLocal": "Alyssa Jane", "houseHoldMemberNameForList": "Alyssa Jane", "isOutOfUnitMember": False, "householdEmail": "jon@chariotwholesale.com", "unitName": "Moss Hill Ward", "householdUuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "isProspectiveElder": False, "isSingleAdult": False, "isYoungSingleAdult": False, "householdPhoneNumber": "801-735-5585", "isHead": False, "unitNumber": 259950, "email": "None", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "birth": {"date": {"date": "2017-11-21", "calc": "2017-11-21", "display": "21 Nov 2017"
+}, "monthDay": {"date": "0000-11-21", "calc": "", "display": "21 Nov"
+}, "place": "None", "country": None
+}, "personStatusFlags": {"member": True, "convert": False, "adult": False, "singleAdult": False, "youngSingleAdult": False, "prospectiveElder": False, "deceased": False
+}
+}
+    {"listPreferredLocal": "Aird, Alyssa Jane", "givenPreferredLocal": "Alyssa Jane", "familyPreferredLocal": "Aird", "listPreferred": "None", "listOfficial": "None", "spokenPreferredLocal": None
+}, "uuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameOrder": 1, "age": 3, "emails": "None", "phones": "None", "phoneNumber": "None", "priesthoodOffice": "NONE", "membershipUnit": "None", "legacyCmisId": 33105576232, "sex": "F", "unitOrgsCombined": ["9ebacb4d-3a81-419c-8344-b509700e75f7"
+], "positions": "None", "householdMember": {"householdRole": "OTHER", "household": {"anchorPerson": {"legacyCmisId": 2451920492, "uuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380"
+}, "uuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "familyNameLocal": "Aird", "directoryPreferredLocal": "Aird, Jon & Sheryl", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "emails": [
+{"email": "jon@chariotwholesale.com", "ownerType": "None", "useType": None
+}
+], "phones": [
+{"number": "801-735-5585", "ownerType": "None", "useType": None
+}
+], "unit": {"parentUnit": "None", "uuid": "None", "unitNumber": 259950, "nameLocal": "Moss Hill Ward", "unitType": "None", "children": "None", "positions": "None", "cdolLink": "None", "adminUnit": "None", "addressUnknown": None
+}
+}, "membershipUnitFlag": True
+}, 
+    "member": True, 
+    "householdAnchorPersonUuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380", 
+    "householdNameFamilyLocal": "Aird", 
+    "householdRole": "OTHER", 
+    "nameFamilyPreferredLocal": "Aird", 
+    "isMember": True, 
+    "formattedAddress": "851 Lakeview Dr<br/>Bountiful, 
+    Utah 84010-1555", 
+    "youthBasedOnAge": True, 
+    "isSpouse": False, 
+    "convert": False, 
+    "priesthoodTeacherOrAbove": False, 
+    "outOfUnitMember": False, 
+    "isAdult": False, 
+    "personUuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameListPreferredLocal": "Aird, Alyssa Jane", 
+    "householdNameDirectoryLocal": "Aird, Jon & Sheryl", "nameGivenPreferredLocal": "Alyssa Jane", "houseHoldMemberNameForList": "Alyssa Jane", "isOutOfUnitMember": False, "householdEmail": "jon@chariotwholesale.com", "unitName": "Moss Hill Ward", "householdUuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "isProspectiveElder": False, "isSingleAdult": False, "isYoungSingleAdult": False, "householdPhoneNumber": "801-735-5585", "isHead": False, "unitNumber": 259950, "email": "None", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "birth": {"date": {"date": "2017-11-21", "calc": "2017-11-21", "display": "21 Nov 2017"
+}, "monthDay": {"date": "0000-11-21", "calc": "", "display": "21 Nov"
+}, "place": "None", "country": None
+}, "personStatusFlags": {"member": True, "convert": False, "adult": False, "singleAdult": False, "youngSingleAdult": False, "prospectiveElder": False, "deceased": False
+}
+}
+}, "uuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameOrder": 1, "age": 3, "emails": "None", "phones": "None", "phoneNumber": "None", "priesthoodOffice": "NONE", "membershipUnit": "None", "legacyCmisId": 33105576232, "sex": "F", "unitOrgsCombined": ["9ebacb4d-3a81-419c-8344-b509700e75f7"
+], "positions": "None", "householdMember": {"householdRole": "OTHER", "household": {"anchorPerson": {"legacyCmisId": 2451920492, "uuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380"
+}, "uuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "familyNameLocal": "Aird", "directoryPreferredLocal": "Aird, Jon & Sheryl", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "emails": [
+{"email": "jon@chariotwholesale.com", "ownerType": "None", "useType": None
+}
+], "phones": [
+{"number": "801-735-5585", "ownerType": "None", "useType": None
+}
+], "unit": {"parentUnit": "None", "uuid": "None", "unitNumber": 259950, "nameLocal": "Moss Hill Ward", "unitType": "None", "children": "None", "positions": "None", "cdolLink": "None", "adminUnit": "None", "addressUnknown": None
+}
+}, "membershipUnitFlag": True
+}, 
+    "member": True, 
+    "householdAnchorPersonUuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380", 
+    "householdNameFamilyLocal": "Aird", 
+    "householdRole": "OTHER", 
+    "nameFamilyPreferredLocal": "Aird", 
+    "isMember": True, 
+    "formattedAddress": "851 Lakeview Dr<br/>Bountiful, 
+    Utah 84010-1555", 
+    "youthBasedOnAge": True, 
+    "isSpouse": False, 
+    "convert": False, 
+    "priesthoodTeacherOrAbove": False, 
+    "outOfUnitMember": False, 
+    "isAdult": False, 
+    "personUuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameListPreferredLocal": "Aird, Alyssa Jane", 
+    "householdNameDirectoryLocal": "Aird, Jon & Sheryl", "nameGivenPreferredLocal": "Alyssa Jane", "houseHoldMemberNameForList": "Alyssa Jane", "isOutOfUnitMember": False, "householdEmail": "jon@chariotwholesale.com", "unitName": "Moss Hill Ward", "householdUuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "isProspectiveElder": False, "isSingleAdult": False, "isYoungSingleAdult": False, "householdPhoneNumber": "801-735-5585", "isHead": False, "unitNumber": 259950, "email": "None", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "birth": {"date": {"date": "2017-11-21", "calc": "2017-11-21", "display": "21 Nov 2017"
+}, "monthDay": {"date": "0000-11-21", "calc": "", "display": "21 Nov"
+}, "place": "None", "country": None
+}, "personStatusFlags": {"member": True, "convert": False, "adult": False, "singleAdult": False, "youngSingleAdult": False, "prospectiveElder": False, "deceased": False
+}
+}
+    {"listPreferredLocal": "Aird, Alyssa Jane", "givenPreferredLocal": "Alyssa Jane", "familyPreferredLocal": "Aird", "listPreferred": "None", "listOfficial": "None", "spokenPreferredLocal": None
+}, "uuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameOrder": 1, "age": 3, "emails": "None", "phones": "None", "phoneNumber": "None", "priesthoodOffice": "NONE", "membershipUnit": "None", "legacyCmisId": 33105576232, "sex": "F", "unitOrgsCombined": ["9ebacb4d-3a81-419c-8344-b509700e75f7"
+], "positions": "None", "householdMember": {"householdRole": "OTHER", "household": {"anchorPerson": {"legacyCmisId": 2451920492, "uuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380"
+}, "uuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "familyNameLocal": "Aird", "directoryPreferredLocal": "Aird, Jon & Sheryl", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "emails": [
+{"email": "jon@chariotwholesale.com", "ownerType": "None", "useType": None
+}
+], "phones": [
+{"number": "801-735-5585", "ownerType": "None", "useType": None
+}
+], "unit": {"parentUnit": "None", "uuid": "None", "unitNumber": 259950, "nameLocal": "Moss Hill Ward", "unitType": "None", "children": "None", "positions": "None", "cdolLink": "None", "adminUnit": "None", "addressUnknown": None
+}
+}, "membershipUnitFlag": True
+}, 
+    "member": True, 
+    "householdAnchorPersonUuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380", 
+    "householdNameFamilyLocal": "Aird", 
+    "householdRole": "OTHER", 
+    "nameFamilyPreferredLocal": "Aird", 
+    "isMember": True, 
+    "formattedAddress": "851 Lakeview Dr<br/>Bountiful, 
+    Utah 84010-1555", 
+    "youthBasedOnAge": True, 
+    "isSpouse": False, 
+    "convert": False, 
+    "priesthoodTeacherOrAbove": False, 
+    "outOfUnitMember": False, 
+    "isAdult": False, 
+    "personUuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameListPreferredLocal": "Aird, Alyssa Jane", 
+    "householdNameDirectoryLocal": "Aird, Jon & Sheryl", "nameGivenPreferredLocal": "Alyssa Jane", "houseHoldMemberNameForList": "Alyssa Jane", "isOutOfUnitMember": False, "householdEmail": "jon@chariotwholesale.com", "unitName": "Moss Hill Ward", "householdUuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "isProspectiveElder": False, "isSingleAdult": False, "isYoungSingleAdult": False, "householdPhoneNumber": "801-735-5585", "isHead": False, "unitNumber": 259950, "email": "None", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "birth": {"date": {"date": "2017-11-21", "calc": "2017-11-21", "display": "21 Nov 2017"
+}, "monthDay": {"date": "0000-11-21", "calc": "", "display": "21 Nov"
+}, "place": "None", "country": None
+}, "personStatusFlags": {"member": True, "convert": False, "adult": False, "singleAdult": False, "youngSingleAdult": False, "prospectiveElder": False, "deceased": False
+}
+}
+}, "uuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameOrder": 1, "age": 3, "emails": "None", "phones": "None", "phoneNumber": "None", "priesthoodOffice": "NONE", "membershipUnit": "None", "legacyCmisId": 33105576232, "sex": "F", "unitOrgsCombined": ["9ebacb4d-3a81-419c-8344-b509700e75f7"
+], "positions": "None", "householdMember": {"householdRole": "OTHER", "household": {"anchorPerson": {"legacyCmisId": 2451920492, "uuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380"
+}, "uuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "familyNameLocal": "Aird", "directoryPreferredLocal": "Aird, Jon & Sheryl", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "emails": [
+{"email": "jon@chariotwholesale.com", "ownerType": "None", "useType": None
+}
+], "phones": [
+{"number": "801-735-5585", "ownerType": "None", "useType": None
+}
+], "unit": {"parentUnit": "None", "uuid": "None", "unitNumber": 259950, "nameLocal": "Moss Hill Ward", "unitType": "None", "children": "None", "positions": "None", "cdolLink": "None", "adminUnit": "None", "addressUnknown": None
+}
+}, "membershipUnitFlag": True
+}, 
+    "member": True, 
+    "householdAnchorPersonUuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380", 
+    "householdNameFamilyLocal": "Aird", 
+    "householdRole": "OTHER", 
+    "nameFamilyPreferredLocal": "Aird", 
+    "isMember": True, 
+    "formattedAddress": "851 Lakeview Dr<br/>Bountiful, 
+    Utah 84010-1555", 
+    "youthBasedOnAge": True, 
+    "isSpouse": False, 
+    "convert": False, 
+    "priesthoodTeacherOrAbove": False, 
+    "outOfUnitMember": False, 
+    "isAdult": False, 
+    "personUuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameListPreferredLocal": "Aird, Alyssa Jane", 
+    "householdNameDirectoryLocal": "Aird, Jon & Sheryl", "nameGivenPreferredLocal": "Alyssa Jane", "houseHoldMemberNameForList": "Alyssa Jane", "isOutOfUnitMember": False, "householdEmail": "jon@chariotwholesale.com", "unitName": "Moss Hill Ward", "householdUuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "isProspectiveElder": False, "isSingleAdult": False, "isYoungSingleAdult": False, "householdPhoneNumber": "801-735-5585", "isHead": False, "unitNumber": 259950, "email": "None", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "birth": {"date": {"date": "2017-11-21", "calc": "2017-11-21", "display": "21 Nov 2017"
+}, "monthDay": {"date": "0000-11-21", "calc": "", "display": "21 Nov"
+}, "place": "None", "country": None
+}, "personStatusFlags": {"member": True, "convert": False, "adult": False, "singleAdult": False, "youngSingleAdult": False, "prospectiveElder": False, "deceased": False
+}
+}
+    {"listPreferredLocal": "Aird, Alyssa Jane", "givenPreferredLocal": "Alyssa Jane", "familyPreferredLocal": "Aird", "listPreferred": "None", "listOfficial": "None", "spokenPreferredLocal": None
+}, "uuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameOrder": 1, "age": 3, "emails": "None", "phones": "None", "phoneNumber": "None", "priesthoodOffice": "NONE", "membershipUnit": "None", "legacyCmisId": 33105576232, "sex": "F", "unitOrgsCombined": ["9ebacb4d-3a81-419c-8344-b509700e75f7"
+], "positions": "None", "householdMember": {"householdRole": "OTHER", "household": {"anchorPerson": {"legacyCmisId": 2451920492, "uuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380"
+}, "uuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "familyNameLocal": "Aird", "directoryPreferredLocal": "Aird, Jon & Sheryl", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "emails": [
+{"email": "jon@chariotwholesale.com", "ownerType": "None", "useType": None
+}
+], "phones": [
+{"number": "801-735-5585", "ownerType": "None", "useType": None
+}
+], "unit": {"parentUnit": "None", "uuid": "None", "unitNumber": 259950, "nameLocal": "Moss Hill Ward", "unitType": "None", "children": "None", "positions": "None", "cdolLink": "None", "adminUnit": "None", "addressUnknown": None
+}
+}, "membershipUnitFlag": True
+}, 
+    "member": True, 
+    "householdAnchorPersonUuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380", 
+    "householdNameFamilyLocal": "Aird", 
+    "householdRole": "OTHER", 
+    "nameFamilyPreferredLocal": "Aird", 
+    "isMember": True, 
+    "formattedAddress": "851 Lakeview Dr<br/>Bountiful, 
+    Utah 84010-1555", 
+    "youthBasedOnAge": True, 
+    "isSpouse": False, 
+    "convert": False, 
+    "priesthoodTeacherOrAbove": False, 
+    "outOfUnitMember": False, 
+    "isAdult": False, 
+    "personUuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameListPreferredLocal": "Aird, Alyssa Jane", 
+    "householdNameDirectoryLocal": "Aird, Jon & Sheryl", "nameGivenPreferredLocal": "Alyssa Jane", "houseHoldMemberNameForList": "Alyssa Jane", "isOutOfUnitMember": False, "householdEmail": "jon@chariotwholesale.com", "unitName": "Moss Hill Ward", "householdUuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "isProspectiveElder": False, "isSingleAdult": False, "isYoungSingleAdult": False, "householdPhoneNumber": "801-735-5585", "isHead": False, "unitNumber": 259950, "email": "None", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "birth": {"date": {"date": "2017-11-21", "calc": "2017-11-21", "display": "21 Nov 2017"
+}, "monthDay": {"date": "0000-11-21", "calc": "", "display": "21 Nov"
+}, "place": "None", "country": None
+}, "personStatusFlags": {"member": True, "convert": False, "adult": False, "singleAdult": False, "youngSingleAdult": False, "prospectiveElder": False, "deceased": False
+}
+}
+}, "uuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameOrder": 1, "age": 3, "emails": "None", "phones": "None", "phoneNumber": "None", "priesthoodOffice": "NONE", "membershipUnit": "None", "legacyCmisId": 33105576232, "sex": "F", "unitOrgsCombined": ["9ebacb4d-3a81-419c-8344-b509700e75f7"
+], "positions": "None", "householdMember": {"householdRole": "OTHER", "household": {"anchorPerson": {"legacyCmisId": 2451920492, "uuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380"
+}, "uuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "familyNameLocal": "Aird", "directoryPreferredLocal": "Aird, Jon & Sheryl", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "emails": [
+{"email": "jon@chariotwholesale.com", "ownerType": "None", "useType": None
+}
+], "phones": [
+{"number": "801-735-5585", "ownerType": "None", "useType": None
+}
+], "unit": {"parentUnit": "None", "uuid": "None", "unitNumber": 259950, "nameLocal": "Moss Hill Ward", "unitType": "None", "children": "None", "positions": "None", "cdolLink": "None", "adminUnit": "None", "addressUnknown": None
+}
+}, "membershipUnitFlag": True
+}, 
+    "member": True, 
+    "householdAnchorPersonUuid": "db7910c4-8c6b-4c21-a341-b404dcd3e380", 
+    "householdNameFamilyLocal": "Aird", 
+    "householdRole": "OTHER", 
+    "nameFamilyPreferredLocal": "Aird", 
+    "isMember": True, 
+    "formattedAddress": "851 Lakeview Dr<br/>Bountiful, 
+    Utah 84010-1555", 
+    "youthBasedOnAge": True, 
+    "isSpouse": False, 
+    "convert": False, 
+    "priesthoodTeacherOrAbove": False, 
+    "outOfUnitMember": False, 
+    "isAdult": False, 
+    "personUuid": "c5bf5936-15fd-48e8-9e2a-2f301283e212", 
+    "nameListPreferredLocal": "Aird, Alyssa Jane", 
+    "householdNameDirectoryLocal": "Aird, Jon & Sheryl", "nameGivenPreferredLocal": "Alyssa Jane", "houseHoldMemberNameForList": "Alyssa Jane", "isOutOfUnitMember": False, "householdEmail": "jon@chariotwholesale.com", "unitName": "Moss Hill Ward", "householdUuid": "d2c5e171-149d-4158-b943-a1eec46c9cd8", "isProspectiveElder": False, "isSingleAdult": False, "isYoungSingleAdult": False, "householdPhoneNumber": "801-735-5585", "isHead": False, "unitNumber": 259950, "email": "None", "address": {"formattedLine1": "851 Lakeview Dr", "formattedLine2": "Bountiful, Utah 84010-1555", "formattedLine3": "None", "formattedLine4": "None", "formatted1": "None", "formatted2": "None", "formatted3": "None", "formatted4": "None", "formattedAll": [], "addressLines": ["851 Lakeview Dr", "Bountiful, Utah 84010-1555"
+]
+}, "birth": {"date": {"date": "2017-11-21", "calc": "2017-11-21", "display": "21 Nov 2017"
+}, "monthDay": {"date": "0000-11-21", "calc": "", "display": "21 Nov"
+}, "place": "None", "country": None
+}, "personStatusFlags": {"member": True, "convert": False, "adult": False, "singleAdult": False, "youngSingleAdult": False, "prospectiveElder": False, "deceased": False
+}
+}
